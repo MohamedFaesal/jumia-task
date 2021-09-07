@@ -4,10 +4,6 @@ namespace App\Hydrators\Abstracts;
 
 use App\Hydrators\HydratorMembers\StringMember;
 
-/**
- * AbstractMember Class is parent class for all Hydration members.
- * @author Mohamed Faesal <m.feasal@baims.com>
- */
 abstract class AbstractMember
 {
     /**
